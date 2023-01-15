@@ -92,7 +92,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 10% 1.125em;
+  margin: 6% 1.125em;
   border-radius: 0.75em;
   overflow: hidden;
   font-family: var(--ff-outfit);
