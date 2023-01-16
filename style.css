@@ -132,6 +132,7 @@ main {
   background-position: center;
   background-size: 3em;
 transition: background-color 2s;
+  cursor:pointer;
 /* transition: background-size 3s; */
 }
 
@@ -203,6 +204,8 @@ hr {
 .name:hover,
 .card__heading:hover {
   color: var(--color-cyan);
+    cursor:pointer;
+
 }
 
 
